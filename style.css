@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    background: #ffffff;
+    font-family: Inter, system-ui, Arial, sans-serif;
+    overflow: hidden;
+}
+
+svg {
+    width: 100vw;
+    height: 100vh;
+    touch-action: none;
+}
+
+.link {
+    fill: none;
+    stroke: #7dd3fc;
+    stroke-width: 2px;
+    opacity: 0.6;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.node {
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.node rect {
+    rx: 8;
+    ry: 8;
+    cursor: pointer;
+    stroke-width: 1.5px;
+    filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.1));
+    transition: all 0.2s ease;
+}
+
+.node.root rect {
+    fill: #bfdbfe;
+    stroke: #93c5fd;
+}
+
+.node.level1 rect {
+    fill: #bfdbfe;
+    stroke: #93c5fd;
+}
+
+.node.level2 rect {
+    fill: #99f6e4;
+    stroke: #5eead4;
+}
+
+.node.level3 rect {
+    fill: #99f6e4;
+    stroke: #5eead4;
+}
+
+.node text {
+    font-size: 13px;
+    fill: #1e3a8a;
+    font-weight: 500;
+    text-anchor: middle;
+    dominant-baseline: middle;
+    pointer-events: none;
+    white-space: pre-wrap;
+}

@@ -1,0 +1,182 @@
+{
+  "name": "Cặp phạm trù Cái riêng và Cái chung",
+  "children": [
+    {
+      "name": "Khái niệm cơ bản",
+      "children": [
+        {
+          "name": "Cái riêng",
+          "children": [
+            {
+              "name": "Chỉ một sự vật, hiện tượng nhất định"
+            },
+            {
+              "name": "Là một chỉnh thể độc lập"
+            }
+          ]
+        },
+        {
+          "name": "Cái chung",
+          "children": [
+            {
+              "name": "Những thuộc tính, mặt giống nhau"
+            },
+            {
+              "name": "Lặp lại trong nhiều cái riêng"
+            }
+          ]
+        },
+        {
+          "name": "Cái đơn nhất",
+          "children": [
+            {
+              "name": "Đặc điểm chỉ có ở một sự vật"
+            },
+            {
+              "name": "Không lặp lại ở sự vật khác"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mối quan hệ biện chứng",
+      "children": [
+        {
+          "name": "Cái chung tồn tại trong cái riêng",
+          "children": [
+            {
+              "name": "Thông qua cái riêng để biểu hiện"
+            },
+            {
+              "name": "Không có cái chung thuần túy bên ngoài"
+            }
+          ]
+        },
+        {
+          "name": "Cái riêng tồn tại trong mối liên hệ với cái chung",
+          "children": [
+            {
+              "name": "Không có cái riêng cô lập tuyệt đối"
+            },
+            {
+              "name": "Chịu tác động của quy luật chung"
+            }
+          ]
+        },
+        {
+          "name": "Sự khác biệt về phạm vi và chiều sâu",
+          "children": [
+            {
+              "name": "Cái riêng phong phú hơn cái chung"
+            },
+            {
+              "name": "Cái chung sâu sắc, bản chất hơn"
+            }
+          ]
+        },
+        {
+          "name": "Sự chuyển hóa",
+          "children": [
+            {
+              "name": "Cái đơn nhất thành cái chung (điều kiện phù hợp)"
+            },
+            {
+              "name": "Cái chung thành cái đơn nhất (không còn phù hợp)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ý nghĩa phương pháp luận",
+      "children": [
+        {
+          "name": "Tìm cái chung trong cái riêng",
+          "children": [
+            {
+              "name": "Tránh chủ quan duy ý chí"
+            },
+            {
+              "name": "Phải xuất phát từ sự vật cụ thể"
+            }
+          ]
+        },
+        {
+          "name": "Vận dụng cái chung để cải tạo cái riêng",
+          "children": [
+            {
+              "name": "Tránh hành động mù quáng"
+            },
+            {
+              "name": "Dựa trên nguyên lý và quy luật"
+            }
+          ]
+        },
+        {
+          "name": "Tạo điều kiện cho sự chuyển hóa",
+          "children": [
+            {
+              "name": "Ủng hộ cái đơn nhất tích cực thành cái chung"
+            },
+            {
+              "name": "Loại bỏ cái chung tiêu cực thành cái đơn nhất"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nội dung vận dụng",
+      "children": [
+        {
+          "name": "Mỗi sinh viên có:",
+          "children": [
+            {
+              "name": "Cái Riêng",
+              "children": [
+                {
+                  "name": "nền tảng"
+                },
+                {
+                  "name": "tốc độ học"
+                },
+                {
+                  "name": "ngành"
+                },
+                {
+                  "name": "hoàn cảnh"
+                }
+              ]
+            },
+            {
+              "name": "Cái Chung",
+              "children": [
+                {
+                  "name": "luyện tập"
+                },
+                {
+                  "name": "phản hồi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Câu hỏi sáng tạo",
+          "children": [
+            {
+              "name": "“Cái riêng” nào của bạn đang giúp/hại việc học?"
+            },
+            {
+              "name": "“Cái chung” nào bạn biết rõ nhưng vẫn không làm được? Vì sao?"
+            },
+            {
+              "name": "Bạn có đang lấy “cái riêng” (bận, mệt, không hợp môn) để né “cái chung” (kỷ luật) không?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
